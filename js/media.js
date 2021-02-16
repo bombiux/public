@@ -263,7 +263,7 @@ self.showCard('file-info-card');
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/develop/laravel-coreui/resources/js/coreui/media.js */"./resources/js/coreui/media.js");
+module.exports = __webpack_require__(/*! /mnt/f/Proyects/laravel-coreui/resources/js/coreui/media.js */"./resources/js/coreui/media.js");
 
 
 /***/ })

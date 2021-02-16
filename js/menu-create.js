@@ -175,9 +175,9 @@ document.getElementById("type").onchange = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/develop/laravel-coreui/resources/js/coreui/menu-create.js */"./resources/js/coreui/menu-create.js");
-__webpack_require__(/*! /home/develop/laravel-coreui/resources/sass/style.scss */"./resources/sass/style.scss");
-module.exports = __webpack_require__(/*! /home/develop/laravel-coreui/resources/sass/website/website.scss */"./resources/sass/website/website.scss");
+__webpack_require__(/*! /mnt/f/Proyects/laravel-coreui/resources/js/coreui/menu-create.js */"./resources/js/coreui/menu-create.js");
+__webpack_require__(/*! /mnt/f/Proyects/laravel-coreui/resources/sass/style.scss */"./resources/sass/style.scss");
+module.exports = __webpack_require__(/*! /mnt/f/Proyects/laravel-coreui/resources/sass/website/website.scss */"./resources/sass/website/website.scss");
 
 
 /***/ })

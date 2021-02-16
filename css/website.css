@@ -11688,6 +11688,10 @@ body,
   height: 100%;
 }
 
+.Navbar-brand img {
+  max-width: 300px;
+}
+
 .Navbar-items {
   -ms-flex-align: center;
       align-items: center;
@@ -11895,7 +11899,11 @@ body,
 
   .Navbar-brand {
     height: 70px;
-    width: 120px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center;
+       object-position: center;
+    width: 190px;
   }
 
   .Navbar-toggle {
@@ -12126,6 +12134,10 @@ body,
 .Article-picture {
   height: 130px;
   margin-right: 40px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   width: 130px;
 }
 
