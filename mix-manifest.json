@@ -25,5 +25,6 @@
     "/node_modules/tinymce/tinymce.min.js": "/node_modules/tinymce/tinymce.min.js",
     "/css/free.min.css": "/css/free.min.css",
     "/css/brand.min.css": "/css/brand.min.css",
-    "/css/flag.min.css": "/css/flag.min.css"
+    "/css/flag.min.css": "/css/flag.min.css",
+    "/storage/home_banners/default-banner.jpg": "/storage/home_banners/default-banner.jpg"
 }

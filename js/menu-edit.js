@@ -161,7 +161,7 @@ document.getElementById("type").onchange = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /mnt/f/Proyects/laravel-coreui/resources/js/coreui/menu-edit.js */"./resources/js/coreui/menu-edit.js");
+module.exports = __webpack_require__(/*! /mnt/f/Proyects/minim-website/resources/js/coreui/menu-edit.js */"./resources/js/coreui/menu-edit.js");
 
 
 /***/ })
